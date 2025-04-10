@@ -1,3 +1,6 @@
+
+Creating own conflict between branches
+
 # References
 
-* octocat 1 😈
+
